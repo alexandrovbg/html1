@@ -1,0 +1,44 @@
+Enter<!DOCTYPE html> 
+2 <html xmlns="http://www.w3.org/1999/xhtml"> 
+3 <head> 
+4     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+5     <title>Nested List</title> 
+6 </head> 
+7 <body> 
+8     <p>Preceding Text</p> 
+9     <ol type="I"> 
+10         <li>List Item 1 
+11             <ol type="a"> 
+12                 <li>Nested Item 1.1</li> 
+13                 <li>Nested Item 1.2</li> 
+14             </ol> 
+15         </li> 
+16         <li>List Item 2 
+17             <ol type="1"> 
+18                 <li>Nested Item 2.1</li> 
+19                 <li>Nested Item 2.2 
+20                     <ul type="circle"> 
+21                         <li>Nested Item 2.2.1</li> 
+22                         <li>Nested Item 2.2.2 
+23                             <ul type="square"> 
+24                                 <li>Nested Item 2.2.2.1</li> 
+25                                 <li>Nested Item 2.2.2.2</li> 
+26                             </ul> 
+27                         </li> 
+28                         <li>Nested Item 2.2.3</li> 
+29                     </ul> 
+30                 </li> 
+31                 <li>Nested Item 2.3</li> 
+32             </ol> 
+33         </li> 
+34         <li>List Item 3 
+35             <ul type="disc"> 
+36                 <li>Nested Item 3.1</li> 
+37                 <li>Nested Item 3.1</li> 
+38                 <li>Nested Item 3.1</li> 
+39             </ul> 
+40         </li> 
+41     </ol> 
+42 </body> 
+43 </html> 
+ file contents here
