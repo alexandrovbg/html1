@@ -1,19 +1,18 @@
-Ente<!DOCTYPE html> 
-2 <html xmlns="http://www.w3.org/1999/xhtml"> 
-3 <head> 
-4     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
-5     <title>The runners Home&#8482;</title> 
-6 </head> 
-7 <body> 
-8     <p>Hello, Stranger!</p> 
-9     <h1>Welcome to Runners Home&#8482;</h1> 
-10     <h2>Runners Home&#8482; is dedicated to providing you with:</h2> 
-11     <ul> 
-12         <li>the most up-to-date information on running races.</li> 
-13         <li>the best resources for runners.</li> 
-14     </ul> 
-15     <div style="width: 90%; height: 1%; background-color: darkgray; position: absolute; border-radius: 4px;"></div> 
-16     <p style="padding-top: 25px">&#169; Runners Home. All rights reserved.</p> 
-17 </body> 
-18 </html> 
-r file contents here
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  <title>The runners Home&#8482;</title> 
+</head> 
+<body> 
+    <p>Hello, unsuscriber!</p> 
+    <h1>Welcome to Runners Home&#8482;</h1> 
+   <h2>Runners Home&#8482; is dedicated to providing you with:</h2> 
+   <ul> 
+       <li>the most up-to-date information on running races.</li> 
+       <li>the best resources for runners.</li> 
+   </ul> 
+   <div style="width: 90%; height: 1%; background-color: darkgray; position: absolute; border-radius: 4px;"></div> 
+   <p style="padding-top: 25px">&#169; Runners Home. All rights reserved.</p> 
+</body> 
+</html> 
