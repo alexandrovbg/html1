@@ -2,17 +2,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml"> 
 <head> 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-    <title>Doge Social Network - Friends</title> 
+    <title>Meto Social Network - Friends</title> 
 </head> 
 <body style="background-color: rgb(173, 216, 230);"> 
-    <h1>Doge Social Network</h1> 
+    <h1>Meto Social Network</h1> 
     <ul typeof="disc"> 
        <li><a href="03.Home.html">Home</a></li> 
        <li><a href="03.Profile.html">Profile</a></li> 
        <li><a href="03.Friends.html">Friends</a></li> 
    </ul> 
    <hr /> 
-   <h2>Friends of Doge</h2> 
+   <h2>Friends of Meto</h2> 
    <hr /> 
    <p><em>Such Friend</em></p> 
    <p style="text-indent: 40px">best friend</p> 
